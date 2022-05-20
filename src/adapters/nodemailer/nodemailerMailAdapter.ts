@@ -22,9 +22,3 @@ export class NodemailerMailAdapter implements MailAdapter {
     };
 }
 
-// [
-//     `<div style="font-family: sans-serif; font-size: 16px; color: #111;">`,
-//     `<p>Feedback type: ${type}</p>`,
-//     `<p>Comment: ${comment}</p>`,
-//     `</div>`
-// ].join('\n')
